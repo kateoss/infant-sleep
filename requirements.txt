@@ -45,7 +45,9 @@ pytz==2023.3
 scikit-learn==1.2.2
     # via -r requirements.in
 scipy==1.10.1
-    # via scikit-learn
+    # via
+    #   -r requirements.in
+    #   scikit-learn
 seaborn==0.12.2
     # via -r requirements.in
 six==1.16.0

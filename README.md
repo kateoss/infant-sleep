@@ -9,7 +9,7 @@ The original datasets consists of 410 entries and 64 columns.
 4. Is there any correlation between baby behaviors (from IBQ) and sleep patterns?
 5. Can way to fall asleep, gender, age group predict the sleep pattern? 
 
-# Issues/data cleaning with the datset
+# Issues/data cleaning with the dataset
 
 
 # Answers
