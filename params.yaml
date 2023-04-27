@@ -1,0 +1,9 @@
+data:
+  raw_data: "../data/Dataset_maternal_mental_health_infant_sleep.csv"
+  clean_data: "../data/clean_sleep_data.csv"
+
+images:
+  heatmap: "../images/heatmap.png"
+  hours_by_gender: "../images/hours_by_gender.png"
+  hours_by_months: "../images/hours_by_months.png"
+  way_to_fall_asleep: "../images/way_to_fall_asleep_age.png"
