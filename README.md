@@ -6,8 +6,8 @@ The original datasets consists of 410 entries and 64 columns.
 1. Is there any differentce between genders in sleep paterns?
 2. Does sleep patterns change (improve) with months?
 3. How a way to fall asleep changes with months?
-4. Is there any correlation between baby behaviors (from IBQ) and sleep patterns?
-5. Can way to fall asleep, gender, age group predict the sleep pattern? 
+4. Can way to fall asleep, gender, age group predict the sleep pattern? 
+5. Is there any correlation between baby behaviors (from IBQ) and sleep patterns?
 
 # Issues/data cleaning with the dataset
 27 columns were excluded from a dataset (those columns included questions from maternal health surveys) that were not of the interest of this analysis. 
